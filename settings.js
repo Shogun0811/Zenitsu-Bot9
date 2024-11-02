@@ -10,18 +10,18 @@ global.location = "India, West Bengal, Darjeeling" //ur location
 
 //new
 global.botname = 'Zenitsu-Bot' //ur bot name
-global.ownernumber = ['917029257330'] //ur owner number, dont add more than one
+global.ownernumber = ['221760263631'] //ur owner number, dont add more than one
 global.ownername = '🦄Dream Guy Deepak' //ur owner name
 global.websitex = "https://youtube.com/@dreamguydeepak"
 global.wagc = "https://whatsapp.com/channel/0029VaDEDUaC6ZvewFKv6835"
 global.themeemoji = '🦄'
 global.wm = "Deepak Bot Inc."
 global.botscript = 'https://github.com/DGDEEPAK/Zenitsu-Bot9' //script link
-global.packname = "Zenitsu-Bot"
-global.author = "🦄Dream Guy Deepak"
+global.packname = "𝐁𝐢𝐜𝐨𝐦𝐚𝐫𝐮•𝐒𝐡𝐨𝐠𝐮𝐧𝐚ī "
+global.author = ""
 global.creator = "917029257330@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["917029257330"] // Premium User
+global.xprefix = ','
+global.premium = ["221760263631"] // Premium User
 
 //channel id
 global.xchannel = {
